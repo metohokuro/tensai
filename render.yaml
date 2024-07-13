@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: incognito
+    name: tensaikun-is-good
     env: node
     region: Oregon
     plan: free
